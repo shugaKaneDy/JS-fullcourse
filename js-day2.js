@@ -1,0 +1,1 @@
+console.log("js-day2.js");
